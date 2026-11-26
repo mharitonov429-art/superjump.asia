@@ -1,0 +1,23 @@
+# Интеллект-клуб онлайн Super Jump (superjump.asia)
+
+> Русскоязычный сайт: онлайн-курс по методике Super Jump, Интеллект-клуб и бесплатный трекер улыбок GO SMILE. Автор — Матвей Харитонов, участник Super Jump. Не официальный сайт Super Jump.
+
+Материалы носят информационный характер, не являются медицинской консультацией; результат не гарантируется. Ссылки на курс и GO SMILE — партнёрские.
+
+## Страницы
+
+- https://superjump.asia/
+- https://superjump.asia/super-jump/
+- https://superjump.asia/super-jump/o-metodike/
+- https://superjump.asia/super-jump/kak-prohodit-kurs/
+- https://superjump.asia/super-jump/intellekt-klub/
+- https://superjump.asia/go-smile/
+- https://superjump.asia/go-smile/kak-rabotaet/
+- https://superjump.asia/go-smile/ustanovka-android/
+- https://superjump.asia/go-smile/ustanovka-iphone/
+- https://superjump.asia/voprosy-otvety/
+- https://superjump.asia/kontakty/
+- https://superjump.asia/o-nas/
+- https://superjump.asia/usloviya/
+
+Sitemap: https://superjump.asia/sitemap.xml
