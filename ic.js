@@ -108,7 +108,7 @@
     if (name === 'register_click' && CFG.adsRegister) gtagSafe('event', 'conversion', { send_to: CFG.adsRegister });
   }
 
-  var GOALS = { 'account.superjump.com': 'register_click', 'getgosmile.io': 'gosmile_click', 't.me': 'telegram_click', 'cp.puzzlebot.top': 'bot_click', 'wa.me': 'whatsapp_click' };
+  var GOALS = { 'account.superjump.com': 'register_click', 'getgosmile.io': 'gosmile_click', 't.me': 'telegram_click', 'cp.puzzlebot.top': 'bot_click' };
 
   document.addEventListener('click', function (e) {
     var t = e.target; if (!t || !t.closest) return;

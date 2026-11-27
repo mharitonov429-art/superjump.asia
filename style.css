@@ -37,4 +37,3 @@ footer .lnk{display:block;margin:6px 0;padding:0;border:0;background:none;color:
 .shot{margin:18px 0}.shot img{display:block;width:100%;max-width:420px;height:auto;border-radius:12px;border:1px solid #e6e1d8}.shot figcaption{font-size:14px;color:var(--m);margin-top:6px}
 .note{font-size:14px;color:var(--m)}
 .certs{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px;margin:16px 0}.certs .shot{margin:0}.certs .shot img{max-width:100%}
-.wa{background:#25D366;border-color:var(--k)}
